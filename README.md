@@ -31,3 +31,13 @@ To Disable HP Wireless Direct from the Control Panel, Complete the Following Ste
 3. Touch the Off menu item. The product saves the setting and then returns the control panel to the Wireless Direct menu.
 
 [END HP Printers]
+
+[PS4]
+
+To disable Remote Play:
+
+1. Navigate to Settings.
+2. From Settings, navigate to Remote Play Connection Settings.
+3. Uncheck the box that says Enable Remote Play.
+
+[END PS4]
