@@ -1,6 +1,10 @@
 # IP-Troubleshooting-Links
 
-[ROKU]
+These items refer to causes of interference or other unsupported devices causing problems on Freedom networks.
+Devices that are not deployed by Freedom Broadband are *officially unsupported*.
+Devices that are *officially unsupported* **with extreme prejudice** include printers with wireless APs and wireless extenders/repeaters.
+
+## [ROKU]
 
 Here are the steps to disable the roku interference.
 
@@ -14,9 +18,9 @@ Here are the steps to disable the roku interference.
 8.	Go into the power menu and change the power to low
 9.	Reboot the roku from within the menu choices
 
-[END ROKU]
+### [END ROKU]
 
-[HP Printers]
+## [HP Printers]
 
 To Disable HP Wireless Direct from the Control Panel, Complete the Following Steps:
 
@@ -30,9 +34,9 @@ To Disable HP Wireless Direct from the Control Panel, Complete the Following Ste
 
 3. Touch the Off menu item. The product saves the setting and then returns the control panel to the Wireless Direct menu.
 
-[END HP Printers]
+### [END HP Printers]
 
-[PS4]
+## [PS4]
 
 To disable Remote Play:
 
@@ -40,4 +44,4 @@ To disable Remote Play:
 2. From Settings, navigate to Remote Play Connection Settings.
 3. Uncheck the box that says Enable Remote Play.
 
-[END PS4]
+### [END PS4]
