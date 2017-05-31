@@ -20,8 +20,6 @@ Devices that are *officially unsupported* **with extreme prejudice** include pri
 8.	Go into the power menu and change the power to low
 9.	Reboot the roku from within the menu choices
 
-#### [END ROKU]
-
 ## [HP Printers]
 
 ### HP Wireless Direct
@@ -35,8 +33,6 @@ Devices that are *officially unsupported* **with extreme prejudice** include pri
 
 3. Touch the Off menu item. The product saves the setting and then returns the control panel to the Wireless Direct menu.
 
-#### [END HP Printers]
-
 ## [PS4]
 
 ### Remote Play
@@ -44,5 +40,3 @@ Devices that are *officially unsupported* **with extreme prejudice** include pri
 1. Navigate to Settings.
 2. From Settings, navigate to Remote Play Connection Settings.
 3. Uncheck the box that says Enable Remote Play.
-
-#### [END PS4]
