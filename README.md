@@ -8,7 +8,7 @@ Devices that are *officially unsupported* **with extreme prejudice** include pri
 
 ## [ROKU]
 
-Here are the steps to disable the roku interference.
+### Roku interference
 
 1.	Plug the Roku in with an Ethernet cable
 2.	Reboot the Roku by unplugging it from power and plugging it back in
@@ -24,7 +24,7 @@ Here are the steps to disable the roku interference.
 
 ## [HP Printers]
 
-To Disable HP Wireless Direct from the Control Panel, Complete the Following Steps:
+### HP Wireless Direct
 
 1. From the Home screen on the product control panel, touch the Wireless button.
 
@@ -39,7 +39,7 @@ To Disable HP Wireless Direct from the Control Panel, Complete the Following Ste
 
 ## [PS4]
 
-To disable Remote Play:
+### Remote Play
 
 1. Navigate to Settings.
 2. From Settings, navigate to Remote Play Connection Settings.
