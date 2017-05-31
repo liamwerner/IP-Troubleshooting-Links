@@ -15,3 +15,19 @@ Here are the steps to disable the roku interference.
 9.	Reboot the roku from within the menu choices
 
 [END ROKU]
+
+[HP Printers]
+
+To Disable HP Wireless Direct from the Control Panel, Complete the Following Steps:
+
+1. From the Home screen on the product control panel, touch the Wireless button.
+
+2. Open the following menus:
+
+    Wireless Menu
+    Wireless Direct
+    On/Off
+
+3. Touch the Off menu item. The product saves the setting and then returns the control panel to the Wireless Direct menu.
+
+[END HP Printers]
