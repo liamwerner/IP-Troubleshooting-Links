@@ -1,0 +1,4 @@
+net stop win32time
+W32tm /config /manualpeerlist:us.pool.ntp.org
+W32tm /config /syncfromflags:manual
+net start w32time

@@ -1,0 +1,9 @@
+Outlook search no longer working
+1. Type anything into the search bar
+2. Click on search tools > search options.
+3. Click on indexing options > advanced.
+4. Rebuild index. This is time-consuming.
+
+Emails not syncing to Outlook, emails coming to 365 but not Outlook, not getting scanned items
+1. Log out of Outlook.
+2. Log back in.
