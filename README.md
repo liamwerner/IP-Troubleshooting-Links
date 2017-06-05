@@ -33,6 +33,7 @@ Devices that are *officially unsupported* **with extreme prejudice** include pri
 
 3. Touch the Off menu item. The product saves the setting and then returns the control panel to the Wireless Direct menu.
 
+
 ## [PS4]
 
 ### Remote Play
