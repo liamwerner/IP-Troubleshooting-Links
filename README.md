@@ -34,6 +34,18 @@ To Disable HP Wireless Direct from the Control Panel, Complete the Following Ste
 
 3. Touch the Off menu item. The product saves the setting and then returns the control panel to the Wireless Direct menu.
 
+Email Prompt for HP Printers:
+
+[CUSTOMER NAME HERE],
+
+I noticed that you have a wireless HP printer on your network. The problem with these printers is that they broadcast their own wifi network (which is causing interference) so that people may connect to it to print if they do not have a router. Since you do have a router, this feature can be turned off.
+
+In order to do this, look for a symbol that appears to be an antenna with wireless signals around it. (An example of this is the button in the top right in this picture: https://crbechervaise.files.wordpress.com/2015/11/hp_color_laserjet_pro_m477_printer_touchscreen2.jpg)
+
+Then open wifi direct (or wirelesss direct, hp direct, etc) and turn it off.
+
+After this is complete, there will no longer be any wireless interference on your network.
+
 ### [END HP Printers]
 
 ## [PS4]
